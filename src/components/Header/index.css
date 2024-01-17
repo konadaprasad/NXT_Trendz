@@ -1,0 +1,36 @@
+/* Write your CSS code here */
+.header-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  font-family: 'roboto';
+  padding: 30px;
+  margin: 10px;
+}
+.trendz-img {
+  height: 50px;
+  width: 120px;
+  margin: 20px;
+}
+.nav-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  width: 300px;
+}
+.para {
+  font-size: 18px;
+  color: #64748b;
+  font-size: 500;
+}
+.btn {
+  height: 40px;
+  width: 80px;
+  background-color: #0967d2;
+  border: none;
+  color: #ffffff;
+  border-radius: 5px;
+}
